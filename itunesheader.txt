@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ 
+<channel>
+
+<title>YOUR PODCAST TITLE</title>
+<link>http://www.MYWEBSITE.com</link>
+<language>en-us</language>
+<copyright>YOUR COPYRIGHT INFO</copyright>
+<itunes:subtitle>THE LIFE AND TIMES OF DUNG BEETLES</itunes:subtitle>
+<itunes:author>YOUR NAME</itunes:author>
+<itunes:summary>A LONGER SUMMARY THAT DESCRIBES YOUR PODCAST</itunes:summary>
+<description>Industry experts talk cloud computing, DevOps, IoT, containers, and more.</description>
+<itunes:owner>
+<itunes:name>YOUR NAME</itunes:name>
+<itunes:email>YOUR EMAIL</itunes:email>
+</itunes:owner>
+<itunes:image href="URL OF YOUR PODCASTS'S ICON" />
+<itunes:category text="CATEGORY" />
+<itunes:explicit>no</itunes:explicit>
+
